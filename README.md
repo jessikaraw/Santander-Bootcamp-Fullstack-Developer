@@ -4,14 +4,14 @@
  ![image](https://user-images.githubusercontent.com/93353985/182635008-d3490a20-83b5-4de6-be49-a59edab3e38c.png)
 
 ### 🏋️‍ Desafios do projeto - Recriando a página inicial do Instagram
-1_
+1_https://github.com/jessikaraw/instagram-dio
   
 ### 🏋️‍ Desafios Iniciais Js - Santander Fullstack Developer
-1_ 
-  
-2_
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Js%20-%20Santander%20Fullstack%20Developer/Quadrado_de_Pares.js
 
-3_
+2_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Js%20-%20Santander%20Fullstack%20Developer/Resto_2.js
+
+3_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Js%20-%20Santander%20Fullstack%20Developer/Tomadas.js
 
 ### 🏋️‍ Desafios do projeto - Introdução Prática ao TypeScript
 1_
