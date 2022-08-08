@@ -27,21 +27,21 @@
 1_
 
 ### 🏋️‍🏋️‍ Desafios Iniciais Java - Santander Fullstack Developer
-1_ 
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Java%20-%20Santander%20Fullstack%20Developer%202/Bob%20Conduite.java
   
-2_
+2_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Java%20-%20Santander%20Fullstack%20Developer%202/pneu.java
 
-3_
+3_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Java%20-%20Santander%20Fullstack%20Developer%202/reservatorioDeMel.java
 
 ### 🏋️‍ Desafios do projeto - Criando um Banco Digital com Java e Orientação a Objetos
-1_
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/tree/main/Criando%20um%20Banco%20Digital%20com%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos
 
 ### 🏋️‍🏋️‍ Desafios Intermediários Java - Santander Fullstack Developer
-1_ 
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Java%20-%20Santander%20Fullstack%20Developer/Idades.java
   
-2_
+2_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Java%20-%20Santander%20Fullstack%20Developer/dbw.java
 
-3_
+3_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Java%20-%20Santander%20Fullstack%20Developer/mudanca.java
 
 ### 🏋️‍ Desafios do projeto - Explorando Padrões de Projetos na Prática com Java
 1_
