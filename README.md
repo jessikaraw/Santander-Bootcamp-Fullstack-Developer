@@ -24,7 +24,7 @@
 3_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Santander%20Fullstack%20Developer/poligonos.js
 
 ### 🏋️‍ Desafios do projeto - Como criar um front-end de um e-commerce utilizando Angular
-1_
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/tree/main/Desafio%20DIO%20Angular%20ECommerce
 
 ### 🏋️‍🏋️‍ Desafios Iniciais Java - Santander Fullstack Developer
 1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Java%20-%20Santander%20Fullstack%20Developer%202/Bob%20Conduite.java
