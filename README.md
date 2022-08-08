@@ -17,11 +17,11 @@
 1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/tree/main/Desafios%20TypeScript
   
 ### 🏋️‍🏋️‍ Desafios Intermediários Js - Santander Fullstack Developer
-1_ 
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Santander%20Fullstack%20Developer/esfera.js
   
-2_
+2_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Santander%20Fullstack%20Developer/pipas.js
 
-3_
+3_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Js%20-%20Santander%20Fullstack%20Developer/poligonos.js
 
 ### 🏋️‍ Desafios do projeto - Como criar um front-end de um e-commerce utilizando Angular
 1_
