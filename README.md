@@ -44,7 +44,7 @@
 3_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Intermedi%C3%A1rios%20Java%20-%20Santander%20Fullstack%20Developer/mudanca.java
 
 ### 🏋️‍ Desafios do projeto - Explorando Padrões de Projetos na Prática com Java
-1_
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/tree/main/Projetos%20Java%20Puro%20-%20Spring
   
 ### 🖥️ Redes Sociais
 <div> 
