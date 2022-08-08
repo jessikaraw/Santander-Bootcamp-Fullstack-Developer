@@ -14,7 +14,7 @@
 3_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/blob/main/Desafios%20Iniciais%20Js%20-%20Santander%20Fullstack%20Developer/Tomadas.js
 
 ### 🏋️‍ Desafios do projeto - Introdução Prática ao TypeScript
-1_
+1_https://github.com/jessikaraw/Santander-Bootcamp-Fullstack-Developer/tree/main/Desafios%20TypeScript
   
 ### 🏋️‍🏋️‍ Desafios Intermediários Js - Santander Fullstack Developer
 1_ 
