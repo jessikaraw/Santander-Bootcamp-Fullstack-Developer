@@ -1,7 +1,9 @@
 # Santander Bootcamp Fullstack Developer✨
  ## Intermediário - 120 hrs - Jornada na trilha de Fullstack. ☺ 
  
- ![image](https://user-images.githubusercontent.com/93353985/182635008-d3490a20-83b5-4de6-be49-a59edab3e38c.png)
+![image](https://user-images.githubusercontent.com/93353985/183442348-4e5febb6-8300-40b7-a112-0ac54d722f37.png)
+![image](https://user-images.githubusercontent.com/93353985/183442500-7e69a08d-4792-4ede-ae8c-49a7d31ad92d.png)
+
 
 ### 🏋️‍ Desafios do projeto - Recriando a página inicial do Instagram
 1_https://github.com/jessikaraw/instagram-dio
